@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'impact';
+    src: url('../font/impact.ttf'), url('../font/impact.eot'), url('../font/impact.woff'), url('../font/impact.woff2'), url('../font/impact.otf');
+}
+
+@font-face {
+    font-family: 'MyriadProSemiboldIt';
+    src: url('../font/MyriadPro-SemiboldIt.ttf'), url('../font/MyriadPro-SemiboldIt.eot'), url('../font/MyriadPro-SemiboldIt.woff'), url('../font/MyriadPro-SemiboldIt.woff2'), url('../font/MyriadPro-SemiboldIt.otf');
+}
+
+@font-face {
+    font-family: 'MyriadProBold';
+    src: url('../font/MyriadPro-Bold.ttf'), url('../font/MyriadPro-Bold.eot'), url('../font/MyriadPro-Bold.woff'), url('../font/MyriadPro-Bold.woff2'), url('../font/MyriadPro-Bold.otf') 
+        ;
+}
+
+@font-face {
+    font-family: 'MyriadProBoldCond';
+    src: url('../font/MyriadPro-BoldCond.ttf'), url('../font/MyriadPro-BoldCond.eot'), url('../font/MyriadPro-BoldCond.woff'), url('../font/MyriadPro-BoldCond.woff2'), url('../font/MyriadPro-BoldCond.otf');
+}
+
+@font-face {
+    font-family: 'MyriadProCond';
+    src: url('../font/MyriadPro-Cond.ttf'), url('../font/MyriadPro-Cond.eot'), url('../font/MyriadPro-Cond.woff'), url('../font/MyriadPro-Cond.woff2'), url('../font/MyriadPro-Cond.otf');
+}
+
+@font-face {
+    font-family: 'MyriadProIt';
+    src:  url('../font/MyriadPro-It.ttf'), url('../font/MyriadPro-It.eot'), url('../font/MyriadPro-It.woff'), url('../font/MyriadPro-It.woff2'), url('../font/MyriadPro-It.otf');
+}
+
+@font-face {
+    font-family: 'MyriadProRegular';
+    src: url('../font/MyriadPro-Regular.ttf'), url('../font/MyriadPro-Regular.eot'), url('../font/MyriadPro-Regular.woff'), url('../font/MyriadPro-Regular.woff2'), url('../font/MyriadPro-Regular.otf');
+}
+
+@font-face {
+    font-family: 'MyriadProSemibold';
+    src: url('../font/MyriadPro-Semibold.ttf'), url('../font/MyriadPro-Semibold.eot'), url('../font/MyriadPro-Semibold.woff'), url('../font/MyriadPro-Semibold.woff2'), url('../font/MyriadPro-Semibold.otf');
+}
+
+.impact {
+    font-family: 'impact'!important;  
+}
+
+.MyriadProSemiboldIt {
+    font-family: 'MyriadProSemiboldIt'!important;  
+}
+
+.MyriadProBold {
+    font-family: 'MyriadProBold'!important;  
+}
+
+.MyriadProBoldCond {
+    font-family: 'MyriadProBoldCond'!important;  
+}
+
+.MyriadProCond {
+    font-family: 'MyriadProCond' !important;
+}
+
+.MyriadProIt {
+    font-family: 'MyriadProIt' !important;
+}
+
+.MyriadProRegular {
+    font-family: 'MyriadProRegular' !important;
+}
+
+.MyriadProSemibold {
+    font-family: 'MyriadProSemibold' !important;
+}
+

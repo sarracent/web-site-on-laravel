@@ -1,0 +1,127 @@
+body{
+    line-height: 1.5
+}
+    .example-box {
+        margin: 0px;  
+    }
+    .wraper {
+        
+        background: white;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+    }
+   
+    .custom-pages1 {
+        list-style: none;
+    }
+     .custom-pagesneg {
+        list-style: none;
+    }
+    .custom-pages {
+        list-style: none;
+        
+    }
+     .custom-pagesmenue {
+        list-style: none;
+    
+    }
+      .custom-pagesneg{
+        list-style: none;
+    
+    }
+     .custom-pagesmenue2 {
+        list-style: none;
+    }
+    .custom-pagesest {
+        list-style: none;
+    }
+   
+    .custom-textarea1 {
+       
+        height: 260px;
+   
+        margin: 0;
+    }
+    .custom-textareaneg {
+  
+        height: 270px;
+        
+  
+    }
+    .custom-textareaest p,.custom-textareaest ul,.custom-textareaest strong {
+        margin-bottom: 0.6px;
+            margin-top: 0
+    } 
+    .custom-textareaest li{
+      line-height: 1.5;
+        margin-bottom: -0.5px
+    }
+    
+   .custom-textareaneg p,.custom-textareaneg ul,.custom-textareaneg strong {
+        margin-bottom: 0.6px;
+            margin-top: 0
+    } 
+    .custom-textareaneg li{
+      line-height: 1.5;
+        margin-bottom: -0.5px
+    }
+    .custom-textareamenue {
+        height: 144px;
+        line-height: 1.5;
+        margin: 10px 0;
+    }
+    .custom-textareaest {
+        height: 190px;
+        line-height: 1.5;
+        margin: 10px 0;
+    }
+    .custom-textareamenue2 {
+       
+        line-height: 1.5;
+        height: 162px;
+   
+        margin: 0;
+    }
+    
+    .tp-control-arrows {
+        height: 40px;
+        float: left;
+    }
+    .tp-control-pages {
+        height: 40px;
+    }
+    .tp-control-arrow-left {
+        background: #777777;
+        color: #FFFFFF;
+        cursor: pointer;
+        float: left;
+        margin: 0 5px;
+        padding: 10px;
+    }
+    .tp-control-arrow-right {
+        background: #777777;
+        color: #FFFFFF;
+        cursor: pointer;
+        float: left;
+        margin: 0 5px;
+        padding: 10px;
+    }
+    .tp-control-arrow-left.unactive {
+        background: #eee;
+    }
+    .tp-control-arrow-right.unactive {
+        background: #eee;
+    }
+    .tp-page {
+        background: #777777;
+        color: #FFFFFF;
+        cursor: pointer;
+        float: left;
+        margin: 0 5px;
+        padding: 10px;
+    }
+    .tp-page.active {
+        background: #ff0000;
+        color: #FFFFFF;
+    }

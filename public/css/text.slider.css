@@ -1,0 +1,238 @@
+#carousel {
+  position: relative;
+  width: auto;
+  margin: 0 auto;
+}
+
+#slides {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 329px;
+}
+
+#slides ul {
+  list-style: none;
+  width: 100%;
+  height: 329px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#slides li {
+  width: 100%;
+  height: 329px;
+  float: left;
+  position: relative;
+}
+
+/* Styling for prev and next buttons*/ 
+
+.btn-bar {
+ display: block;
+  position: relative;
+  top: 80px;
+}
+
+#buttons {
+  text-align: center;
+}
+
+.quote-phrase {
+  display: table-cell;
+  padding: 0px 2px;
+  height: auto;
+}
+/**********************************************************/
+#carousel-industries {
+  position: relative;
+  width: auto;
+  margin: 0 auto;
+}
+
+#slides-industries {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 360px;
+}
+
+#slides-industries ul {
+  list-style: none;
+  width: 100%;
+  height: 360px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#slides-industries li {
+  width: 100%;
+  height: 360px;
+  float: left;
+  position: relative;
+}
+
+/* Styling for prev and next buttons*/ 
+
+.btn-bar-industries {
+  display: block;
+  position: relative;
+  top: -30px;
+}
+
+#buttons-industries {
+  text-align: center;
+}
+
+.quote-phrase-industries {
+  display: table-cell;
+  padding: 0px 2px;
+  height: auto;
+}
+/**************************************************************/
+@media (min-width: 576px) {
+  #carousel {
+  position: relative;
+  width: auto;
+  margin: 0 auto;
+}
+
+#slides {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 548px;
+}
+
+#slides ul {
+  list-style: none;
+  width: 100%;
+  height: 548px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#slides li {
+  width: 100%;
+  height: 548px;
+  float: left;
+  position: relative;
+}
+
+/* Styling for prev and next buttons*/ 
+
+.btn-bar {
+ display: block;
+  position: relative;
+  top: 60px;
+}
+
+#buttons {
+  text-align: center;
+}
+
+.quote-phrase {
+  display: table-cell;
+  padding: 0px 2px;
+  height: auto;
+}
+/**********************************************************/
+#carousel-industries {
+  position: relative;
+  width: auto;
+  margin: 0 auto;
+}
+
+#slides-industries {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 598px;
+}
+
+#slides-industries ul {
+  list-style: none;
+  width: 100%;
+  height: 598px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#slides-industries li {
+  width: 100%;
+  height: 598px;
+  float: left;
+  position: relative;
+}
+
+/* Styling for prev and next buttons*/ 
+
+.btn-bar-industries {
+  display: block;
+  position: relative;
+  top: -50px;
+}
+
+#buttons-industries {
+  text-align: center;
+}
+
+.quote-phrase-industries {
+  display: table-cell;
+  padding: 0px 2px;
+  height: auto;
+}
+}
+@media (min-width: 768px) {
+  #carousel {
+    position: relative;
+    width: 45%;
+    margin: 0 auto;
+  }
+
+  #slides {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 355px;
+  }
+
+  #slides ul {
+    list-style: none;
+    width: 100%;
+    height: 355px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+
+  #slides li {
+    width: 100%;
+    height: 355px;
+    float: left;
+    position: relative;
+  }
+
+  /* Styling for prev and next buttons*/ 
+
+  .btn-bar {
+    width: 130%;
+    display: block;
+    position: relative;
+    top: -195px;
+  }
+
+  #buttons {
+    float: right;
+  }
+
+  .quote-phrase {
+    display: table-cell;
+    padding: 0px 2px;
+    height: 288px;
+  }
+}

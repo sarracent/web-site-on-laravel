@@ -1,0 +1,37 @@
+
+    .wraper {
+        margin: 0 60px;
+    }
+    .custom-pages {
+        list-style: none;
+    }
+    /*****************textarea*************************/
+    .custom-textarea1 {
+        height: 332px;
+    }
+    .custom-textareamenu {
+        height: 355px;
+    }
+    .custom-textarea2 {
+        height: 244px;
+    }
+    /****************control-arrows**********************/
+    .icon-back-01 {
+        cursor: pointer;
+        float: left;
+        margin: 0 5px;
+    }
+    .icon-fwrd-01 {
+        cursor: pointer;
+        float: left;
+        margin: 0 5px;
+    }
+    .icon-back-01.btn-dark-gray.unactive {
+        color: #bbb;
+    }
+    .icon-fwrd-01.btn-dark-gray.unactive {
+        color: #bbb;
+    }
+    .tp-page {
+        float: left;
+    }
